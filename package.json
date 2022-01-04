@@ -1,0 +1,19 @@
+{
+  "name": "sfb45_skillfactory",
+  "version": "1.0.0",
+  "description": "SkillFactory task B4.5.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl4ck291/sfb45.git"
+  },
+  "author": "Harith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bl4ck291/sfb45/issues"
+  },
+  "homepage": "https://github.com/bl4ck291/sfb45#readme"
+}
